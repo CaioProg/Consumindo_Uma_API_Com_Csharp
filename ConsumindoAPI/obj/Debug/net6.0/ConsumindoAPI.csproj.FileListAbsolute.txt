@@ -1,0 +1,17 @@
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\bin\Debug\net6.0\ConsumindoAPI.exe
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\bin\Debug\net6.0\ConsumindoAPI.deps.json
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\bin\Debug\net6.0\ConsumindoAPI.runtimeconfig.json
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\bin\Debug\net6.0\ConsumindoAPI.dll
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\bin\Debug\net6.0\ConsumindoAPI.pdb
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.csproj.AssemblyReference.cache
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.AssemblyInfoInputs.cache
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.AssemblyInfo.cs
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.dll
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\refint\ConsumindoAPI.dll
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.pdb
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.genruntimeconfig.cache
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ref\ConsumindoAPI.dll
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Workspace\ConsumindoAPI\ConsumindoAPI\obj\Debug\net6.0\ConsumindoAPI.csproj.CopyComplete
